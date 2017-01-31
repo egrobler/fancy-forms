@@ -8,9 +8,9 @@ Fancy Forms Test
 - tried to use plain javascript instead of jquery
 
 ## Run:
-yarn install
-yarn run p
-yarn run start
+- yarn install
+- yarn run p
+- yarn run start
 
 
 ## Issues:
