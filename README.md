@@ -8,9 +8,10 @@ Fancy Forms Test
 - tried to use plain javascript instead of jquery
 
 ## Run:
-yarn install #installs the necessary packages
-yarn run p #compiles everything
-yarn run start #fires up the dev server
+yarn install
+yarn run p
+yarn run start
+
 
 ## Issues:
 Still trying to figure out why webpack dev server isn't picking up my changes on the fly
