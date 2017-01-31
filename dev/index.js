@@ -21,6 +21,5 @@ for (var entry of fancyInput.entries()) {
         } else if ( (this.value.length === 0) && (this.className.indexOf("focus") > 0)) {
             this.classList.remove("focus")
         }
-
     })
 }
